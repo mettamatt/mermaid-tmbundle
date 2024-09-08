@@ -39,17 +39,11 @@ This repository provides a rudimentary Mermaid.js syntax highlighter for TextMat
    mv mermaid.tmbundle ~/Library/Application\ Support/TextMate/Bundles/
    ```
 
-4. **Reload TextMate Bundles:**
-
-   To make sure TextMate recognizes the new bundle, reload bundles by running:
-
-   ```bash
-   osascript -e 'tell app "TextMate" to reload bundles'
-   ```
+4. **Reopen TextMate**
 
 5. **Using the Syntax Highlighter:**
 
-   After reloading, open any Mermaid.js file (`*.mmd` or `*.mermaid`), and TextMate should automatically apply the syntax highlighting. If it doesn't, manually select the Mermaid syntax from the language menu.
+   Open any Mermaid.js file (`*.mmd` or `*.mermaid`), and TextMate should automatically apply the syntax highlighting. If it doesn't, manually select the Mermaid syntax from the language menu.
 
 ## Syntax Highlighting Details
 

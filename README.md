@@ -20,7 +20,7 @@ This repository provides a rudimentary Mermaid.js syntax highlighter for TextMat
    Open your terminal and clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/mettamatt/mermaid.bundle.git
+   git clone https://github.com/mettamatt/mermaid-bundle.git
    ```
 
 2. **Rename the Folder:**
@@ -28,7 +28,7 @@ This repository provides a rudimentary Mermaid.js syntax highlighter for TextMat
    Rename the folder to ensure TextMate recognizes it as a bundle:
 
    ```bash
-   mv mermaid.bundle mermaid.tmbundle
+   mv mermaid-bundle mermaid.tmbundle
    ```
 
 3. **Move the Bundle to TextMate's Bundles Directory:**
